@@ -1,4 +1,3 @@
-# test01
 This is a test Git project.
 
 ## 打印Hello world
@@ -21,6 +20,8 @@ int main()
 ## 输出信息
 
 Hello world
+
+test
 
 
 
